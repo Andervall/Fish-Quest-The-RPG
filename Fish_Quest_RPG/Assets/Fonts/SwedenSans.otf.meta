@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ee4c6ef5e746be0409c118bcfb7f0214
+timeCreated: 1496234513
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sweden Sans
+  fontNames:
+  - Sweden Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
